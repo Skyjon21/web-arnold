@@ -1,0 +1,44 @@
+.tema {
+    background: linear-gradient(#9a08dd 0%,#dd4c4f 60%,#7420d3 100%);
+}
+
+.profileName {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    transform: translateY(170px);
+}
+
+.profile {
+    width: 200px;
+}
+
+.h2-text {
+    color: white;
+}
+.h4-text {
+    color: white;
+    transform: translateY(-10px);
+}
+
+.gelombang {
+    transform: translateY(100px);
+}
+
+.h3-text {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transform: translateY(100px);
+    background-color: white;
+}
+
+.background {
+    background-color: white;
+    padding: 0 20px;
+}
+
+.text {
+    text-align: justify;
+}
