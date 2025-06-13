@@ -1,5 +1,5 @@
 .tema {
-    background: linear-gradient(#9a08dd 0%,#dd4c4f 60%,#7420d3 100%);
+    background-color: black;
 }
 
 .profileName {
@@ -12,33 +12,27 @@
 
 .profile {
     width: 200px;
+    filter: drop-shadow(1px 1px 20px blue);
 }
 
 .h2-text {
     color: white;
+    transform: translateY(-50px);
 }
 .h4-text {
     color: white;
-    transform: translateY(-10px);
+    transform: translateY(-55px);
 }
 
-.gelombang {
-    transform: translateY(100px);
-}
-
-.h3-text {
+.deskripsi {
+    color: white;
     display: flex;
     justify-content: center;
     align-items: center;
-    transform: translateY(100px);
-    background-color: white;
+    transform: translateY(270px);
 }
 
-.background {
-    background-color: white;
-    padding: 0 20px;
-}
-
-.text {
-    text-align: justify;
+.column {
+    color: white;
+    transform: translateY(300px);
 }
