@@ -29,7 +29,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    transform: translateX(-30px) translateY(450px);
+    transform: translateX(-10px) translateY(400px);
 }
 
 .h1-text {
